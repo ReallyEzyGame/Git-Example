@@ -1,1 +1,1 @@
-use cammel case for naming variable
+use cammelCase for naming function
